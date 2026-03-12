@@ -39,7 +39,8 @@ AUTH/
 ## ⚙️ Setup & Installation
 
 1. Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Rahul-git-web/Authentication-System
+.git
 
 2. Install dependencies
 npm install
@@ -52,7 +53,7 @@ npm install
 |--------|------------|---------------|
 | POST | /api/auth/register | Register a new user |
 | POST | /api/auth/login | Login a user |
-| GET | /api/auth/profile | Logout a user |
+| GET | /api/auth/profile | Fetch user |
 
 
 ## 👨‍💻 Author
